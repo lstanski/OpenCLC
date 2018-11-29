@@ -1,0 +1,17 @@
+input line data is ./ForkedCreek_Illinois/results/NHDFLowline_071200011703.shp and ./ForkedCreek_Illinois/results/3m_DEM_frmLidr_channelNetwork_10ksk_clip.shp
+Cell size is 18, and radius is 18
+Using water polygon shapefile ./ForkedCreek_Illinois/streams/wps07120001_w_aps_and_eds_cl.shp
+Using boundary polygon shapefile ./ForkedCreek_Illinois/streams/dem_boundary.shp
+Run startTue Nov 20 13:22:57 2018
+Minimum, Maximum, Mean, STD, RMSE, 95% NSSDA estimate, Mean Abs. Val. Diffs.
+-81.574501,38.474117,-2.692537,8.048496,8.486934,16.634391,3.110718
+clc code and corresponding total length for ./ForkedCreek_Illinois/results/NHDFLowline_071200011703.shp, clc code : total length
+total length of matching features in ./ForkedCreek_Illinois/results/NHDFLowline_071200011703.shp: 115845.621747
+total length of mismatching features in ./ForkedCreek_Illinois/results/NHDFLowline_071200011703.shp: 16667.828053
+clc code and corresponding total length for ./ForkedCreek_Illinois/results/3m_DEM_frmLidr_channelNetwork_10ksk_clip.shp, clc code : total length
+total length of matching features in ./ForkedCreek_Illinois/results/3m_DEM_frmLidr_channelNetwork_10ksk_clip.shp: 108736.338235
+total length of mismatching features in ./ForkedCreek_Illinois/results/3m_DEM_frmLidr_channelNetwork_10ksk_clip.shp: 471710.290069
+total CLC = 0.314999348322
+Creating fishnet using gridsize = 1195 gridcount = 208
+Finish time Tue Nov 20 13:23:15 2018
+Processing minutes: 0.297652864456
